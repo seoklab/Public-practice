@@ -7,8 +7,17 @@ This is a repository for public files used in the lectures, presentation etc.
 ### Notice
 
 The files in this repository will be pemitted to use 
+  
   1) only for the purpose with permission in the lecture, presentation
   2) only for group memebers or lecture participants with permission in the lecture, presentation
+
+### How to Download
+
+If you want to download the specific directory or file,
+
+	1) Move to directory or file to download
+	2) Copy the URL
+	3) Download using [Downloader]'https://minhaskamal.github.io/DownGit/#/home' 
 
 ---
 
