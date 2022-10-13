@@ -14,7 +14,7 @@ The files in this repository will be pemitted to use
 ### Download
 
 If you want to download the specific directory or file,
-  You can use the [Downgit](https://minhaskamal.github.io/DownGit/#/home/) made by [Minhas Kamal](https://github.com/MinhasKamal)
+  You can use the [DownGit](https://minhaskamal.github.io/DownGit/#/home/) made by [Minhas Kamal](https://github.com/MinhasKamal)
 
 ---
 
