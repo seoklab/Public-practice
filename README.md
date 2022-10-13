@@ -11,13 +11,10 @@ The files in this repository will be pemitted to use
   1) only for the purpose with permission in the lecture, presentation
   2) only for group memebers or lecture participants with permission in the lecture, presentation
 
-### How to Download
+### Download
 
 If you want to download the specific directory or file,
-
-	1) Move to directory or file to download
-	2) Copy the URL
-	3) Download using [github downloader]('https://minhaskamal.github.io/DownGit/#/home') 
+  You can use the [Downgit](https://minhaskamal.github.io/DownGit/#/home/) made by [Minhas Kamal](https://github.com/MinhasKamal)
 
 ---
 
