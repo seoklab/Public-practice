@@ -17,7 +17,7 @@ If you want to download the specific directory or file,
 
 	1) Move to directory or file to download
 	2) Copy the URL
-	3) Download using [Downloader]'https://minhaskamal.github.io/DownGit/#/home' 
+	3) Download using [Downloader](https://minhaskamal.github.io/DownGit/#/home) 
 
 ---
 
