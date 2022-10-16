@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from glob import glob
 
-chain_rename = {'A':'L', 'B':'H', 'C':'A'}
+chain_rename = {'A':'H', 'B':'L', 'C':'A'}
 
 
 files = glob('*.pdb')
