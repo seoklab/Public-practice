@@ -1,0 +1,54 @@
+2023-10-22 05:48:04,648 Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: CUDA
+2023-10-22 05:48:04,657 Unable to initialize backend 'tpu': INTERNAL: Failed to open libtpu.so: libtpu.so: cannot open shared object file: No such file or directory
+2023-10-22 05:48:06,681 Running on GPU
+2023-10-22 05:48:06,766 Found 8 citations for tools or databases
+2023-10-22 05:48:06,766 Query 1/1: CB1_3d07b (length 286)
+2023-10-22 05:48:07,355 Sleeping for 5s. Reason: PENDING
+2023-10-22 05:48:12,929 Sleeping for 5s. Reason: RUNNING
+2023-10-22 05:48:18,549 Sleeping for 9s. Reason: RUNNING
+2023-10-22 05:48:28,119 Sleeping for 10s. Reason: RUNNING
+2023-10-22 05:48:38,739 Sleeping for 8s. Reason: RUNNING
+2023-10-22 05:48:47,349 Sleeping for 5s. Reason: RUNNING
+2023-10-22 05:48:52,965 Sleeping for 9s. Reason: RUNNING
+2023-10-22 05:49:02,544 Sleeping for 8s. Reason: RUNNING
+2023-10-22 05:49:11,167 Sleeping for 8s. Reason: RUNNING
+2023-10-22 05:49:41,392 Sequence 0 found templates: ['6tko_A', '8dcr_R', '7s0f_R', '6ibl_B', '7e2z_R', '7exd_R', '7wv9_R', '7cmv_R', '7jvp_R', '7x2f_F', '7x2d_F', '7jv5_R', '7ljc_R', '7ljd_R', '7f24_F', '6kpg_R', '7jvq_R', '7f23_F', '6n4b_R', '7jvr_R']
+2023-10-22 05:49:42,223 Setting max_seq=512, max_extra_seq=4557
+2023-10-22 05:51:25,541 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=89.1 pTM=0.871
+2023-10-22 05:51:55,449 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=91.8 pTM=0.886 tol=0.311
+2023-10-22 05:52:25,149 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=91.8 pTM=0.887 tol=0.0797
+2023-10-22 05:52:55,201 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=91.8 pTM=0.888 tol=0.0652
+2023-10-22 05:52:55,202 alphafold2_ptm_model_1_seed_000 took 172.2s (3 recycles)
+2023-10-22 05:53:25,430 alphafold2_ptm_model_2_seed_000 recycle=0 pLDDT=86.9 pTM=0.865
+2023-10-22 05:53:55,201 alphafold2_ptm_model_2_seed_000 recycle=1 pLDDT=87.8 pTM=0.867 tol=0.4
+2023-10-22 05:54:24,966 alphafold2_ptm_model_2_seed_000 recycle=2 pLDDT=87.8 pTM=0.866 tol=0.0939
+2023-10-22 05:54:54,753 alphafold2_ptm_model_2_seed_000 recycle=3 pLDDT=88.2 pTM=0.87 tol=0.0484
+2023-10-22 05:54:54,754 alphafold2_ptm_model_2_seed_000 took 119.2s (3 recycles)
+2023-10-22 05:55:47,938 alphafold2_ptm_model_3_seed_000 recycle=0 pLDDT=89.2 pTM=0.874
+2023-10-22 05:56:17,798 alphafold2_ptm_model_3_seed_000 recycle=1 pLDDT=90.2 pTM=0.876 tol=0.332
+2023-10-22 05:56:46,712 alphafold2_ptm_model_3_seed_000 recycle=2 pLDDT=91.1 pTM=0.882 tol=0.102
+2023-10-22 05:57:16,032 alphafold2_ptm_model_3_seed_000 recycle=3 pLDDT=91.3 pTM=0.884 tol=0.0453
+2023-10-22 05:57:16,034 alphafold2_ptm_model_3_seed_000 took 140.9s (3 recycles)
+2023-10-22 05:57:45,691 alphafold2_ptm_model_4_seed_000 recycle=0 pLDDT=88.4 pTM=0.871
+2023-10-22 05:58:14,807 alphafold2_ptm_model_4_seed_000 recycle=1 pLDDT=90.9 pTM=0.889 tol=0.351
+2023-10-22 05:58:44,121 alphafold2_ptm_model_4_seed_000 recycle=2 pLDDT=91.2 pTM=0.891 tol=0.0966
+2023-10-22 05:59:13,360 alphafold2_ptm_model_4_seed_000 recycle=3 pLDDT=91.4 pTM=0.891 tol=0.103
+2023-10-22 05:59:13,362 alphafold2_ptm_model_4_seed_000 took 116.9s (3 recycles)
+2023-10-22 05:59:43,034 alphafold2_ptm_model_5_seed_000 recycle=0 pLDDT=90.5 pTM=0.889
+2023-10-22 06:00:12,383 alphafold2_ptm_model_5_seed_000 recycle=1 pLDDT=90.8 pTM=0.889 tol=0.374
+2023-10-22 06:00:41,763 alphafold2_ptm_model_5_seed_000 recycle=2 pLDDT=91.1 pTM=0.888 tol=0.0855
+2023-10-22 06:01:10,918 alphafold2_ptm_model_5_seed_000 recycle=3 pLDDT=91.1 pTM=0.89 tol=0.0822
+2023-10-22 06:01:10,919 alphafold2_ptm_model_5_seed_000 took 117.0s (3 recycles)
+2023-10-22 06:01:11,266 reranking models by 'plddt' metric
+2023-10-22 06:01:11,984 Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+2023-10-22 06:03:42,694 Relaxation took 151.4s
+2023-10-22 06:03:42,694 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=91.8 pTM=0.888
+2023-10-22 06:06:00,739 Relaxation took 138.0s
+2023-10-22 06:06:00,740 rank_002_alphafold2_ptm_model_4_seed_000 pLDDT=91.4 pTM=0.891
+2023-10-22 06:08:32,568 Relaxation took 151.8s
+2023-10-22 06:08:32,570 rank_003_alphafold2_ptm_model_3_seed_000 pLDDT=91.3 pTM=0.884
+2023-10-22 06:11:37,377 Relaxation took 184.8s
+2023-10-22 06:11:37,378 rank_004_alphafold2_ptm_model_5_seed_000 pLDDT=91.1 pTM=0.89
+2023-10-22 06:14:03,069 Relaxation took 145.7s
+2023-10-22 06:14:03,069 rank_005_alphafold2_ptm_model_2_seed_000 pLDDT=88.2 pTM=0.87
+2023-10-22 06:14:06,095 Done
